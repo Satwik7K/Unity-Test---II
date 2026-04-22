@@ -1,0 +1,19 @@
+# Unity auto-generated (safe to exclude, regenerated automatically)
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Visual Studio / Rider IDE files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+
+# OS junk
+.DS_Store
+Thumbs.db
