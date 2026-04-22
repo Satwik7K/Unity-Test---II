@@ -13,6 +13,8 @@ UserSettings/
 *.csproj
 *.sln
 *.user
+*.slnx
+*.sln
 
 # OS junk
 .DS_Store
